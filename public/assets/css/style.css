@@ -1,0 +1,39 @@
+
+   /* .panel-body a {
+      word-break: break-all;
+    }*/
+    {
+        box-sizing: border-box;
+    }
+    
+    body { 
+    
+        background-image: url("../assets/img/creampaper.png")
+    
+     }
+   body {
+      /*background-image: url(".");
+      background-repeat: no-repeat;*/
+      height: 100%;
+      text-align: center;
+      background: url(../assets/img/food.jpg) no-repeat center center fixed;
+      background-size: cover;
+      overflow: hidden;
+      background-repeat: no-repeat;
+    }
+
+    .container {
+      width: 960px;
+    }
+    
+    .jumbotron {
+        /*background-color: transparent;*/
+        
+      }
+    
+    #saveArticle {
+        justify-content: right;
+         
+    }
+    
+ 
